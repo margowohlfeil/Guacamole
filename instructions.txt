@@ -5,3 +5,4 @@ stir
 chop cilantro 
 serve cilantro on side plate 
 best served with tacos, or chips
+won't stay fresh in fridge for more than 4 days
